@@ -1,0 +1,20 @@
+  
+  
+  
+  
+  
+                                                  add-fireflies branch
+  add-turtle branch                             |--------|
+|--------|                                      |        |
+|        |                                      |        |
+|        | - Merging add-turtle into master     |        |merging add-fireflies into master
+-----------------------------------------------------------------------------------------
+^Master Branch              |       |
+                            |       |
+                            |       |
+                            |       |------------------------------------------------------------
+                            |         ^add-walrus-and-polar bear branch |^merge add-walrus to
+                            |                                           |add-walrus-and-polar-bear
+                            |                                           |
+                            |--------------------------------------------
+                             ^add-walrus branch
